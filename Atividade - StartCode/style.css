@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/Galáxia.jpg);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.ft1 img{
+
+   width: 530px;
+   height: 240px;
+   padding-left: 200px;
+   margin-top: 60px;
+}
+
+
+.ft2 img{
+
+    width: 530px;
+    height: 240px;
+    padding-left: 200px;
+    margin-top: 60px;
+ }
+ .ft3 img{
+
+    width: 530px;
+    height: 240px;
+    padding-left: 200px;
+    margin-top: 60px;
+ }
